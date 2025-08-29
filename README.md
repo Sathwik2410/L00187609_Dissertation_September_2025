@@ -7,7 +7,7 @@ This project explores the use of **deep learning models** for detecting cyberbul
 
 ## Dataset  
 
-- `structurecter cleaned.csv` (included in this repository)  
+- `cleaned(1).csv` (included in this repository)  
 - Derived from Twitter posts, reformatted into binary labels.  
 
 ---
@@ -15,7 +15,7 @@ This project explores the use of **deep learning models** for detecting cyberbul
 ## Quick Start  
 
 1. Clone or download this repository.  
-2. Place the dataset file (`structurecter cleaned.csv`) in the working directory.  
+2. Place the dataset file (`cleaned(1).csv`) in the working directory.  
 3. Open the notebooks:  
    - `HateBERT_Model.ipynb`  
    - `XLNet_Model.ipynb`  
